@@ -1,0 +1,23 @@
+.ben-calculator {
+    width: 600px;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+    background-color: rgb(255, 196, 247);
+    padding: 2%;
+    border: 3px solid violet;
+}
+.ben-calculator .action-buttons button {
+    height: 60px;
+    width: 60px;
+    margin: 3%;
+    font-size: larger;
+}
+.ben-calculator .inputs-block .input label {
+    display: block;
+    font-size: larger;
+}
+.ben-calculator .inputs-block .input {
+    display: inline-block;
+    padding: 10px;
+}
